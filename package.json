@@ -1,0 +1,23 @@
+{
+  "name": "UOCxBot",
+  "version": "1.0.0",
+  "description": "Bot UOC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeHachePe/UOCxBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeHachePe/UOCxBot/issues"
+  },
+  "homepage": "https://github.com/PeHachePe/UOCxBot#readme",
+  "dependencies": {
+    "telegraf": "^4.6.0"
+  }
+}
